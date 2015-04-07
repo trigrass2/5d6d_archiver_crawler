@@ -1,3 +1,0 @@
-5d6d discuz论坛压缩档爬虫
-由于循环嵌套，多次调用，爬行速度较慢，未使用curl
-请执行discuz_bbs_archiver_crawler.exe主程序
