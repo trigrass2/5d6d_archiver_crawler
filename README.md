@@ -18,11 +18,3 @@
 ### 软件下载地址
   
 https://github.com/ycrao/5d6d_archiver_crawler  
-
-### 备注
-
-    如需反馈问题、提出意见或建议，请通过以下方式联系作者。
-    QQ 873454876   
-    Email 837454876#qq&com (请将#换成@，&换成.)  
-    Github https://github.com/ycrao  
-    官方QQ群： 260655062
